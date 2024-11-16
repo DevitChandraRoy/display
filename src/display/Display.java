@@ -18,6 +18,12 @@ public class Display {
         {
             System.out.println("India");
         }
+        System.out.println("\n");
+        for(int i=0;i<10;i++)
+        {
+            System.out.println("Malaysia");
+        }
+
     }
     
 }
